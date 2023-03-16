@@ -10,7 +10,7 @@ import {
 } from "react-router-dom";
 import Checkout from "./components/Checkout";
 export const config = {
-  endpoint: `http://${ipConfig.workspaceIp}:8082/api/v1`,
+  endpoint: `https://qkart-frontend-vj56.onrender.com/`,
 };
 
 function App() {
